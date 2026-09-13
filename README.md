@@ -241,3 +241,27 @@ The Week 5 project outputs include:
 
 The next stage of the project will focus on refining the analytics and dashboard, incorporating feedback, strengthening the recommendations, and continuing development of the HealthConnect project.
 
+Week 6 – Advanced Analytics & Decision Support
+
+In Week 6, I built on my Week 5 work by going deeper into the HealthConnect appointment data.
+
+What I worked on
+
+- Analysed booking lead time and previous no-shows.
+- Looked at appointment types, times, and reminder patterns.
+- Validated key attendance and no-show KPIs.
+- Improved the Power BI dashboard.
+- Identified key findings that can support better decision-making.
+
+Key Findings
+
+The analysis showed useful patterns around previous no-shows, booking lead time, reminders, and appointment types.
+
+Recommendations
+
+The findings can help HealthConnect focus reminders and patient engagement on higher-risk appointment groups.
+
+Week 7 Focus
+
+Next, I will support testing, validation, and cross-track integration of the Data Analytics outputs.
+
